@@ -1,4 +1,4 @@
-package com.vits56.restauranteapi.services.dto;
+package com.vits56.restauranteapi.controllers.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

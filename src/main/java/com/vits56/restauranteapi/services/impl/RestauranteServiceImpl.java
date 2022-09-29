@@ -4,7 +4,7 @@ import com.vits56.restauranteapi.entities.Endereco;
 import com.vits56.restauranteapi.entities.Restaurante;
 import com.vits56.restauranteapi.repository.RestauranteRepository;
 import com.vits56.restauranteapi.services.RestauranteService;
-import com.vits56.restauranteapi.services.dto.RestauranteDto;
+import com.vits56.restauranteapi.controllers.dto.RestauranteDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

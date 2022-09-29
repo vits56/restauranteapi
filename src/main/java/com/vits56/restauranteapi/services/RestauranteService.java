@@ -1,7 +1,7 @@
 package com.vits56.restauranteapi.services;
 
 import com.vits56.restauranteapi.entities.Restaurante;
-import com.vits56.restauranteapi.services.dto.RestauranteDto;
+import com.vits56.restauranteapi.controllers.dto.RestauranteDto;
 
 import java.util.List;
 
